@@ -287,7 +287,7 @@ const Footer = () => {
               mb={1}
             >
               <Phone sx={{ mr: 1, color: "#90caf9" }} />
-              <Typography variant="body2">+91 7972989925</Typography>
+              <Typography variant="body2">+91 8975551299</Typography>
             </Box>
             {/* <Box
               display="flex"
