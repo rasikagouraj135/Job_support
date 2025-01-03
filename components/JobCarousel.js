@@ -196,7 +196,7 @@ const JobCarousel = () => {
 
   const whatsappNumber = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER; // Replace with your number
   const message =
-    "Hello! I'm interested in learning more about your job support technology.";
+    "Hello, I’m interested to know more details about your job support.";
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
     message
   )}`;
